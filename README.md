@@ -27,7 +27,7 @@ The code developed takes in raw input to create an interactive experience in the
 
 The answers to the questions above will determine the city and timeframe on which you'll do data analysis. After filtering the dataset, users will see the statistical result of the data, and choose to start again or exit.
 
-## The Datasets
+## The Datasets:
 The data is provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
@@ -44,7 +44,7 @@ The Chicago and New York City files also have the following two columns:
 * Gender
 * Birth Year
 
-## Statistics Computed
+## Statistics Computed:
 Using python is was able to compute a variety of descriptive statistics.
 
 ### 1 Popular times of travel (i.e., occurs most often in the start time)
@@ -78,9 +78,6 @@ Using python is was able to compute a variety of descriptive statistics.
 * Juno Lee (Udacity Mentor)
     - [https://github.com/junolee](https://github.com/junolee)
     - [https://www.linkedin.com/in/junoleelj](https://www.linkedin.com/in/junoleelj)
-
-* The data for all 3 cities that is used in this project can be accessed through the link mentioned below :
-    - [City Data](https://drive.google.com/file/d/1km4EggJaSvHos_7KKFuHoJxbh-StyM4G/view?usp=sharing)
 
 * The link for commit message style reference for this project is given below :
     - [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
